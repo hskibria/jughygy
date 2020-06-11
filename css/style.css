@@ -1,0 +1,16 @@
+.h1{
+	color:red;
+	background-color:black;
+	font-size:30px;
+}
+#h1{
+	color:yellow;
+	background-color:black;
+}
+.yellow{
+	color:yellow;
+}
+.blue{
+	color:blue;
+}
+display: inline-block;
